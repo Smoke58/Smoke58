@@ -1,6 +1,6 @@
 ## Hey 😎🔥, I'm Smoke58!
 
-A Full-Stack-Developer from Germany
+A Full-Stack-Developer & UI Designer from Germany
 
 ### Languages and Tools:
 <p align="left">
