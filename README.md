@@ -1,7 +1,7 @@
 ## Hi there! 👋  
 
-I'm a Full-Stack Developer focused on FiveM game development.  
-From server-side logic to sleek UI designs, I craft immersive RP experiences for the GTA V community.
+- I'm a Full-Stack Developer focused on FiveM game development.  
+- From server-side logic to sleek UI designs, I craft immersive RP experiences for the GTA V community.
 
 ### Languages and Tools:
 <p align="left">
