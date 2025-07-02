@@ -25,3 +25,5 @@
 
 ### Connect with me:
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1007232883708153926/)
+
+  <img src="https://raw.githubusercontent.com/Smoke-Dev-Offiziell/Smoke-Dev-Offiziell/main/User_Banner_Smoke.gif" alt="Smoke Fullstack Developer Banner" />
