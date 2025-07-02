@@ -14,5 +14,10 @@
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" height="40" />
 </p>
 
+### 💎 Why Choose Me?
+- ✅ 100% custom FiveM scripts
+- 🛠️ Clean code with full documentation
+- 🔄 Frequent updates & active support
+
 ### Connect with me:
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1007232883708153926/)
