@@ -19,5 +19,9 @@
 - 🛠️ Clean code with full documentation
 - 🔄 Frequent updates & active support
 
+### 🤓 Fun Facts
+- ⌨️ I can write Lua faster than I can text.
+- 🧃 Fuel: Code + Energy Drinks.
+
 ### Connect with me:
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1007232883708153926/)
